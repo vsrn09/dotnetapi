@@ -1,0 +1,10 @@
+c:\git\dotnetapi\bin\Debug\netcoreapp2.0\dotnetapi.deps.json
+c:\git\dotnetapi\bin\Debug\netcoreapp2.0\dotnetapi.runtimeconfig.json
+c:\git\dotnetapi\bin\Debug\netcoreapp2.0\dotnetapi.runtimeconfig.dev.json
+c:\git\dotnetapi\bin\Debug\netcoreapp2.0\dotnetapi.dll
+c:\git\dotnetapi\bin\Debug\netcoreapp2.0\dotnetapi.pdb
+c:\git\dotnetapi\obj\Debug\netcoreapp2.0\dotnetapi.csproj.CoreCompileInputs.cache
+c:\git\dotnetapi\obj\Debug\netcoreapp2.0\dotnetapi.AssemblyInfoInputs.cache
+c:\git\dotnetapi\obj\Debug\netcoreapp2.0\dotnetapi.AssemblyInfo.cs
+c:\git\dotnetapi\obj\Debug\netcoreapp2.0\dotnetapi.dll
+c:\git\dotnetapi\obj\Debug\netcoreapp2.0\dotnetapi.pdb
